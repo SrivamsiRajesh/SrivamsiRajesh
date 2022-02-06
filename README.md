@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **html css and js**
 
-- 📄 Know about my experiences [I have an experience of 3 yrs in website development](I have an experience of 3 yrs in website development)
+- 📄 Know about my experiences (I have an experience of 3 yrs in website development)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
