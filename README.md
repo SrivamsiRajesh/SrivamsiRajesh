@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://github.com/SrivamsiRajesh**
 
-- 📄 Know about my experiences [I have an experience of 3 years in the field of programming and website development](I have an experience of 3 years in the field of programming and website development)
+- 📄 Know about my experiences (I have an experience of 3 years in the field of programming and website development)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
