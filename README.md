@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML , CSS AND JS**
 
-- 📫 How to reach me **https://github.com/SrivamsiRajesh**
+- 📫 Find my projects at  **https://github.com/SrivamsiRajesh**
 
 - 📄 Know about my experiences (I have an experience of 3 years in the field of programming and website development)
 
