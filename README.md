@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React and AI**
 
-- 👨‍💻 All of my projects are available at [github.com/SrivamsiRajesh](github.com/SrivamsiRajesh)
+- 👨‍💻 All of my projects are available at (github.com/SrivamsiRajesh)
 
-- 📄 Know about my experiences [3 years of experience in developing and designing](3 years of experience in developing and designing)
+- 📄 Know about my experiences (3 years of experience in developing and designing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
