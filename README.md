@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Vamsi Rajesh</h1>
-<h3 align="center">A designer and developer</h3>
+<h3 align="center">A designer , web developer and discord bot developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivamsirajesh&label=Profile%20views&color=0e75b6&style=flat" alt="srivamsirajesh" /> </p>
 
