@@ -6,7 +6,10 @@
 
 - 🔭 I’m currently working on **Social**
 
-- 🌱 I’m currently learning **React and AI**
+- 🌱 I’m currently learning **AI**
+
+
+- I’m currently exploring **Web 3 and blockchain technologies**
 
 - 👨‍💻 All of my projects are available at (github.com/SrivamsiRajesh)
 
