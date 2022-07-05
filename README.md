@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivamsirajesh&show_icons=true&locale=en" alt="srivamsirajesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivamsirajesh&theme=dark" alt="srivamsirajesh" /></p>
+<a href="https://discord.com/users/886988389692350484">
+  <img src="https://lanyard.cnrad.dev/api/886988389692350484?idleMessage=Probably%20online%20but%20idle..&bg=161b22" align="right" />
+</a>
