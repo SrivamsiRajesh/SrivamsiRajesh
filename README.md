@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivamsirajesh&label=Profile%20views&color=0e75b6&style=flat" alt="srivamsirajesh" /> </p>
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
 
-- 🔭 I’m currently working on **Social**
+- 🔭 I’m currently working on **CSFD**
 
 - 🌱 I’m currently learning **AI**
 
