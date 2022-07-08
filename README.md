@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
@@ -40,11 +37,7 @@
 <a href = 'https://www.github.com/srivamsirajesh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
+
 
 
 <h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
@@ -57,7 +50,7 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
 <a href="https://discord.com/users/886988389692350484">
   <img src="https://lanyard.cnrad.dev/api/886988389692350484?idleMessage=Probably%20online%20but%20idle..&bg=161b22" align="right" />
 </a>
