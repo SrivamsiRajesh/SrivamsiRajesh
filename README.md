@@ -44,6 +44,9 @@
 
 ![Metrics](https://metrics.lecoq.io/srivamsirajesh?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
+    <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=SrivamsiRajesh&bg_color=182c44&color=94c8ff&line=409cfc&point=8abdff&area=true&hide_border=true" />
+
+
 <br>
 
 <a href="https://discord.com/users/886988389692350484">
