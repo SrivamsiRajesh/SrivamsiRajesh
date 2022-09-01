@@ -1,18 +1,12 @@
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers/ >!</h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srivamsirajesh.srivamsirajesh)
 
 </p>
-<div size='20px'> Hi! My name is Sri Vamsi Rajesh. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
+<div size='20px'> Hi! My name is Sri Vamsi Rajesh. Thank You for taking the time to view my GitHub Profile 
+  </div>
 - 🔭 I’m currently working on Illusio
 
 - 🌱 I’m currently learning Artificial Intelligence  
@@ -46,9 +40,6 @@
     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrivamsiRajesh&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=24436700)](https://git.io/streak-stats">
     <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=SrivamsiRajesh&bg_color=182c44&color=94c8ff&line=409cfc&point=8abdff&area=true&hide_border=true" />
 </p>
-
-    
-
 
 <br>
 
