@@ -35,18 +35,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,git,astro,bash,c,cs,discord,dotnet,express,heroku,jquery,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,git,bots,cs,discord,heroku,jquery,nextjs,blender,tailwindcss,bootstrap" />
   </a>
 </p>
 <br><br><br>
-
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.github.com/srivamsirajesh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href="https://discord.gg/8718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8718" height="30" width="40" /></a>
-
 
 <h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
 
