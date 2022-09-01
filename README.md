@@ -27,7 +27,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/<s.r.i.2.0.0.8>#8718">
+  <a href="https://discord.gg/!Blaze#6946">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="(https://skillicons.dev/icons?i=js,html,css,react,blender,bootstrap,discord,bots,electron,firebase,flask,git,github,heroku,nodejs,py,stackoverflow	,svelte,tailwind,vscode,wordpress)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,git,astro,bash,c,cs,discord,dotnet,express,heroku,jquery,nextjs" />
   </a>
 </p>
 <br><br><br>
