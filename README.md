@@ -18,14 +18,7 @@
 - 🛩 I like Aviation
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/!Blaze#6946">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p>
-<br>
+  <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +26,13 @@
   </a>
 </p>
 <br><br><br>
-
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://discord.gg/!Blaze#6946">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 <h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <p align="center">
