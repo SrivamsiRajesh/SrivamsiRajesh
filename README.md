@@ -1,35 +1,19 @@
+# 💫 About Me:
+🔭 I’m currently working on Illusio<br>
 
-<h1> Hello Fellow < Developers/ >!</h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=srivamsirajesh.srivamsirajesh)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/<s.r.i.2.0.0.8>#6019) 
 
-</p>
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-  <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,git,bots,discord,heroku,jquery,nextjs,blender,tailwindcss,bootstrap" />
-  </a>
-</p>
-<br><br><br>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/!Blaze#6946">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-</p>
-<h2> My GitHub Stats <img src='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/gifs/github.gif' width='32px' height=32px> </h2>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SrivamsiRajesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SrivamsiRajesh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivamsiRajesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrivamsiRajesh&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=24436700)](https://git.io/streak-stats">
-    <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=SrivamsiRajesh&bg_color=182c44&color=94c8ff&line=409cfc&point=8abdff&area=true&hide_border=true" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
-<a href="https://discord.com/users/886988389692350484">
-  <img src="https://lanyard.cnrad.dev/api/886988389692350484?idleMessage=Probably%20online%20but%20idle..&bg=161b22" align="right" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=SrivamsiRajesh&icon=2&color=0)](https://visitcount.itsvg.in)
