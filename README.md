@@ -17,3 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SrivamsiRajesh&icon=2&color=0)](https://visitcount.itsvg.in)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/886988389692350484)](https://discord.com/users/886988389692350484)
