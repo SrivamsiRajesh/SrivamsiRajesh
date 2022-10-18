@@ -5,18 +5,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=srivamsirajesh.srivamsirajesh)
 
 </p>
-<div size='20px'> Hi! My name is Sri Vamsi Rajesh. Thank You for taking the time to view my GitHub Profile 
-  </div>
-- 🔭 I’m currently working on Illusio
-
-- 🌱 I’m currently learning Artificial Intelligence  
-
-- 👯 I’m looking to collaborate on open source projects and more 
-
-- 💬 Talk to me about Python, JavaScript and more 
-
-- 🛩 I like Aviation
-
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
   <br>
 <h3 align="left">Languages and Tools:</h3>
