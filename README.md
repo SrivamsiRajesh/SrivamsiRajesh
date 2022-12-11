@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SrivamsiRajesh&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SrivamsiRajesh&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/886988389692350484)](https://discord.com/users/886988389692350484)
