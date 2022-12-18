@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Axiz<br>
+🔭 I’m currently working on Logix<br>
 
 
 ## 🌐 Socials:
