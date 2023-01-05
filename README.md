@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on JetExits<br>
+🔭 I’m currently working on my portfolio<br>
 
 
 ## 🌐 Socials:
