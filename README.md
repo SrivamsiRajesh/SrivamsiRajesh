@@ -22,4 +22,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=srivamsirajesh&style=for-the-badge)
 
+![Metrics](https://metrics.lecoq.io/SrivamsiRajesh?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/886988389692350484)](https://discord.com/users/886988389692350484)
