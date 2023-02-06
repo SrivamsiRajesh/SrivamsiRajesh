@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on my Znotes<br>
+🔭 I’m currently working in Znotes<br>
 
 
 ## 🌐 Socials:
