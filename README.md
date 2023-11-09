@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Vivace Cars<br>
+🔭 I’m currently working on Cosmosile 🌙 🔭<br>
 
 
 ## 🌐 Socials:
@@ -16,12 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SrivamsiRajesh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivamsiRajesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 ![](https://komarev.com/ghpvc/?username=srivamsirajesh&style=for-the-badge)
 
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/886988389692350484)](https://discord.com/users/886988389692350484)
