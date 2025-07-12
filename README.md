@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Stipecent AI<br>
+🔭 I’m currently working on Formier<br>
 
 
 # 💻 Tech Stack:
