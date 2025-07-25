@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Reliear<br>
+🔭 I’m currently working on Alio<br>
 
 
 # 💻 Tech Stack:
