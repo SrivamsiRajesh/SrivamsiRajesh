@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Formier<br>
+🔭 I’m currently working on Ikigai<br>
 
 
 # 💻 Tech Stack:
