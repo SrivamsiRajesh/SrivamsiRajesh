@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Ikigai<br>
+🔭 I’m currently working on A3<br>
 
 
 # 💻 Tech Stack:
