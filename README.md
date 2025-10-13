@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on A3<br>
+🔭 I’m currently working on Nordo<br>
 
 
 # 💻 Tech Stack:
