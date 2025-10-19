@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Maneuver <br>
+🔭 I’m currently working on Znotes <br>
 
 
 # 💻 Tech Stack:
