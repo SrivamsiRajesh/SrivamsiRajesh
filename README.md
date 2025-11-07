@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Znotes <br>
+🔭 I’m currently working on Rimo <br>
 
 
 # 💻 Tech Stack:
