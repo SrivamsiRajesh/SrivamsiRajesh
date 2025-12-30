@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Rimo <br>
+🔭 I’m currently working on Thozha <br>
 
 
 # 💻 Tech Stack:
