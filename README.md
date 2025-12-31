@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Thozha <br>
+🔭 I’m currently working on Life. <br>
 
 
 # 💻 Tech Stack:
