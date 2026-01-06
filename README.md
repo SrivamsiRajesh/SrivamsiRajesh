@@ -6,4 +6,4 @@ I’m Sri Vamsi Rajesh, a Backend Engineer based in NYC 🗽.
 
 I design and build whatever I can imagine.
 
-Currently Building WireClips
+Currently Building "Way" - Where are you
